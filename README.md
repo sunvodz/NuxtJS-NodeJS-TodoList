@@ -2,6 +2,23 @@
 
 > My bedazzling Nuxt.js project
 
+# First Create
+```
+npx create-nuxt-app NuxtJS-NodeJS-TodoList
+✨  Generating Nuxt.js project in NuxtJS-NodeJS-TodoList
+? Project name NuxtJS-NodeJS-TodoList
+? Project description My bedazzling Nuxt.js project
+? Author name SunvoDz
+? Choose the package manager Npm
+? Choose UI framework Bootstrap Vue
+? Choose custom server framework Express
+? Choose Nuxt.js modules Axios
+? Choose linting tools ESLint
+? Choose test framework Jest
+? Choose rendering mode Universal (SSR)
+? Choose development tools jsconfig.json (Recommended for VS Code)
+```
+
 ## Build Setup
 
 ``` bash

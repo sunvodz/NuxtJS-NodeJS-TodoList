@@ -6,7 +6,7 @@
         NuxtJS-NodeJS-TodoList
       </h1>
       <h2 class="subtitle">
-        My bedazzling Nuxt.js project
+        SunvoDz
       </h2>
       <div class="links">
         <a

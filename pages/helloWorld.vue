@@ -7,6 +7,7 @@
       <div class="links">
         <buttonComponent />
         <p>{{ dateTime }}</p>
+        <date-picker placeholder="select date" format="DD/MM/YYYY" />
       </div>
     </div>
   </div>

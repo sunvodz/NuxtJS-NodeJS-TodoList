@@ -19,7 +19,7 @@
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
     "moment": "^2.24.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "vue2-datepicker": "^3.3.0"
   },
   "devDependencies": {
